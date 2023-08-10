@@ -1,6 +1,6 @@
 ## Description
 
-A simple API developed to learn NextJS.
+A simple API developed to learn NestJS.
 
 ## Installation
 
